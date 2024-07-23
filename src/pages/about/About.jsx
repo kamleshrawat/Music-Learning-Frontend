@@ -7,7 +7,7 @@ const About = () => {
       <div className="about-content">
         <h2>About Us</h2>
         <p>
-          Welcome to our Music Learning Platform, where passion meets
+          Welcome to Your Music Learning Platform, where passion meets
           education! Our mission is to make high-quality music education
           accessible to everyone, regardless of age, skill level, or background.
           We believe that music has the power to transform lives, and we are
@@ -26,7 +26,7 @@ const About = () => {
            <h2>Our Vision</h2>
            <p>At Your Music Learning Platform, we envision a world where everyone has the opportunity to explore their musical potential. We are committed to creating an inclusive and supportive environment that inspires creativity, fosters growth, and celebrates the joy of making music. <br />
 
-           Thank you for choosing our Music Learning Platform. We are excited to be a part of your musical journey and look forward to helping you achieve your goals.
+           Thank you for choosing Your Music Learning Platform. We are excited to be a part of your musical journey and look forward to helping you achieve your goals.
            </p>
           </p>
         </p>
