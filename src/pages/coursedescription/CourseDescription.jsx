@@ -44,6 +44,7 @@ const CourseDescription = ({ user }) => {
       currency: "INR",
       name: "Music Learning", //your business name
       description: "Learn with us",
+      image: "https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg",
       order_id: order.id, //This is a sample Order ID. Pass the `id` obtained in the response of Step 1
 
       handler: async function (response) {
